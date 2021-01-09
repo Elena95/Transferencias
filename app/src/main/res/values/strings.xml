@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Transferencias</string>
+    <string name="alta_de_cliente">Alta de cliente</string>
+    <string name="consulta_de_cliente">Consulta de cliente</string>
+    <string name="registro_de_pagos">Registro de pagos</string>
+    <string name="resumen_de_pagos">Resumen de pagos</string>
+    <string name="selected_item">Selected item:</string>
+    <string name="edit_customer">Editar</string>
+    <string-array name="gender">
+    <item>Masculino</item>
+    <item>Femenino</item>
+    </string-array>
+</resources>
